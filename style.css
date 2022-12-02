@@ -1,0 +1,55 @@
+
+.pige-titel{
+    word-spacing: 25mm;
+   line-break: normal;
+    color: red;
+    text-align: center;
+    
+
+}
+.titel{
+    color: black;
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: red;
+}
+
+.img{
+    margin: 0 auto;
+}
+.text-block{
+     padding-left: 120px;
+     padding-right: 120px;
+    color:black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container{
+        height: 15vh;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+        background-color: red;
+        color: white;
+    padding: 14px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+.text{
+    text-align: right;
+    padding-right: 100px;
+    font-size: larger;
+    size: 16px;
+}
